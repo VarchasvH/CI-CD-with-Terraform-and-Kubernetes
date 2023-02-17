@@ -1,5 +1,5 @@
 data "google_container_engine_versions" "defualt"{
-    location = "us-centeral1-c"
+    location = "us-centeral1-c
 }
 data "google_client_config" "current"{
 }
